@@ -3,7 +3,7 @@
 Plugin Name: My social network page
 Plugin URI: http://wordpress.com/
 Description: This plugin allowed you to integrate your twitter, and last.fm account into a page, or an article on your blog.
-Version: 1.1
+Version: 1.0
 Author: Mickael Goubin
 Author URI: http://www.magic-micky.net
 */
