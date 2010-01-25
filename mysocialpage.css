@@ -1,0 +1,41 @@
+.twitter_tweet { /* class for the tweet itself */
+margin:0px 10px;
+padding:0px;
+border:none;
+}
+
+.twitter_link { /* class for all links inside the tweet*/
+
+
+}
+
+
+.twitter_to { /* class for @username */
+
+
+}
+
+
+.twitter_tag { /* class for all hashtags */
+
+
+}
+
+
+.twitter_ago { /* class for the date */
+	font-style:italic;
+
+}
+
+.music_lastfm {
+margin:0px 10px;
+padding:0px;
+border:none;
+}
+.music_link {
+
+
+}
+.music_ago {
+	font-style:italic;
+}
