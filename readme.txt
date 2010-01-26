@@ -3,7 +3,7 @@ Contributors: Magic-Micky
 Tags: rss, twitter, page, atom, fetch, article, last.fm, last fm, social networks, json
 Requires at least: 2.9
 Tested up to: 2.9
-Stable tag: 1.0
+Stable tag: 1.1
 
 This plugin allows you to integrate your twitter, and last.fm account into a page, or an article on your blog.
 
@@ -17,7 +17,7 @@ ex : your username is MagicMicky, and you want to show up 5 tweets so, in your p
 
 If you want to personalize the results, there is a css file into the folder. The css contains predefined class. You should edit it for a better integration in your theme.
 
-In the next few weeks, I want this plugin to display your youtube, dailymotion, facebook, and other social networks informations.
+In the next few weeks, I want this plugin to display your youtube, dailymotion, flickr facebook, and other social networks informations.
 
 == Installation ==
 

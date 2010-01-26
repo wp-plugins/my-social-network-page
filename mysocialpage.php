@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: My social network page
-Plugin URI: http://wordpress.com/
+Plugin URI: http://www.magic-micky.net/563-my-social-network-page-plugin-wordpress/
 Description: This plugin allowed you to integrate your twitter, and last.fm account into a page, or an article on your blog.
-Version: 1.0
+Version: 1.1
 Author: Mickael Goubin
 Author URI: http://www.magic-micky.net
 */
@@ -11,6 +11,8 @@ Author URI: http://www.magic-micky.net
 //TODO : GESTION DES ERREURS
 //TODO : Optimisation du code
 //@TODO : http://gdata.youtube.com/feeds/api/users/$username/uploads?max-results=2
+//@TODO : http://www.dailymotion.com/rss/nqtv/1:1
+//@TODO : avec gestion des miniature en option
 function imag_wp_head($unused) {
 	$stylesheet= get_bloginfo('url') . '/wp-content/plugins/mytwitpage/mytwitpage.css';
 	echo '<link rel="stylesheet" href="' . $stylesheet . '" type="text/css" media="screen" />';
