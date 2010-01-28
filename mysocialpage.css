@@ -9,10 +9,7 @@ border:none;
 
 }
 
-
 .twitter_to { /* class for @username */
-
-
 }
 
 
@@ -27,15 +24,15 @@ border:none;
 
 }
 
-.music_lastfm {
+.music_lastfm {/* class for all the song */
 margin:0px 10px;
 padding:0px;
 border:none;
 }
-.music_link {
+.music_link {/* class for the music link */
 
 
 }
-.music_ago {
+.music_ago { /* class for the date */
 	font-style:italic;
 }
